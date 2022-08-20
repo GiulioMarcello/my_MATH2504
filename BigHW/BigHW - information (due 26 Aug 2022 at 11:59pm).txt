@@ -1,0 +1,19 @@
+MATH2504 - BigHW Assignment information
+
+Due Date:           Friday, 26 August 2022 11:59 PM
+Points Possible:    100
+
+This is the submission form for BigHW.
+Please make sure to read and follow the detailed submission instructions on the BigHW page.
+
+A single submission is needed for a pair (group) of students.
+That is, only one of the students in the group needs to upload the submission.
+
+To submit, please do the following:
+
+1) Use the comments section to fill in the link (URL) to the (private) GitHub repo. As described in BigHW, The course's GitHub user need to be invited as a collaborator for the repo.
+
+2) Use the comments section to mention the name and student number of the partner(s) that are not submitting.
+
+3) Upload the voice recording (30 sec min, 3 minutes max, 1 minute recommended). The voice recording should have voices of both (all) members of the group.
+
